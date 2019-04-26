@@ -2,6 +2,6 @@
 
 Yohanes Bosko Grethaputra/4210161007
 
-Unity: CoreManager.cs
-Server: Program.cs + GameHub.cs
-Shared: IGameHub.cs + IGameHubReceiver + Player.cs
+1. Unity: CoreManager.cs
+2. Server: Program.cs + GameHub.cs
+3. Shared: IGameHub.cs + IGameHubReceiver + Player.cs
